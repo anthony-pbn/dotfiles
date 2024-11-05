@@ -95,7 +95,16 @@ brew install rlwrap
 brew install ssh-copy-id
 brew install tree
 brew install vbindiff
-brew install zopfli
+brew install eopfli
+
+## Install fzf and all the fancy stuff that makes it work
+brew install fzf 
+brew install bat 
+brew install ripgrep 
+brew install the_silver_searcher 
+brew install perl 
+brew install universal-ctags
+
 
 # Remove outdated versions from the cellar.
 brew cleanup
