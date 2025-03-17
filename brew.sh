@@ -36,7 +36,7 @@ BREW_PREFIX=$(brew --prefix)
 #brew install wget --with-iri
 
 # Install GnuPG to enable PGP-signing commits.
-#brew install gnupg
+brew install gnupg
 
 # Install more recent versions of some macOS tools.
 #brew install vim --with-override-system-vi
@@ -98,11 +98,11 @@ brew install git
 #brew install eopfli
 
 ## Install fzf and all the fancy stuff that makes it work
-brew install fzf 
-brew install bat 
-brew install ripgrep 
-brew install the_silver_searcher 
-brew install perl 
+brew install fzf
+brew install bat
+brew install ripgrep
+brew install the_silver_searcher
+brew install perl
 brew install universal-ctags
 
 
